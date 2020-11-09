@@ -3,7 +3,6 @@ This program can be used to detect vehicle accidents and send the information to
 
 To read more about the functioning of the project check 
 
-
 Files-
 Accident detections system.pptx contains the basic information for the project 
 Project_IAD_FINAL.ino contains the code for the arduino device 
